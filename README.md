@@ -1,3 +1,6 @@
+## POINTS: 2.0
+## KEY: Great Job overall including comments
+
 # Mongo/Mongoose Graded Classwork
 
 ### Exercise 1: Create a Web API for ZOO Animals
